@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/galeriFragment"
+        android:icon="@drawable/ic_image"
+        android:title="Galeri" />
+    <item
+        android:id="@+id/prestasiFragment"
+        android:icon="@drawable/ic_school"
+        android:title="Prestasi" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_account_circle"
+        android:title="Sekolah" />
+    <item
+        android:id="@+id/founderFragment"
+        android:icon="@drawable/ic_person"
+        android:title="Kepsek" />
+    <item
+        android:id="@+id/ekskulFragment"
+        android:icon="@drawable/ic_sports_volleyball"
+        android:title="Ekskul" />
+</menu>
